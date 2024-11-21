@@ -1,10 +1,9 @@
-Microsoft Edge Uninstallers
-
 - Removing Edge may cause update failure loop. 
   Install Edge, install all Windows updates, then remove Edge. 
  
 Flag - Remove-Edge.exe
 /s  Silent      Do not print anything, or change title of window  
+
 
 Requires WebView
 
