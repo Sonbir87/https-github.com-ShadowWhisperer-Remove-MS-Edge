@@ -15,9 +15,9 @@ Requires WebView
 - Windows Mail  
 - Xbox App  
 EXE Version
-Remove-Edge.exe Removes Edge only, leaves WebView alone.
-Remove-EdgeWeb.exe Removes Edge and WebView
-Remove-NoTerm.exe Remove Edges only. Completely silent, no terminal, no flags. Useful for Task Schedular.
+Remove-Edge.exe Removes https://github.com/ShadowWhisperer/Remove-MS-Edge/blob/main/Remove-Edge.exe?raw=true  Edge only, leaves WebView alone.
+Remove-EdgeWeb.exe Removes https://github.com/ShadowWhisperer/Remove-MS-Edge/blob/main/Remove-EdgeWeb.exe?raw=true  Edge and WebView
+Remove-NoTerm.exe Remove https://github.com/ShadowWhisperer/Remove-MS-Edge/blob/main/Remove-NoTerm.exe?raw=true   Edges only. Completely silent, no terminal, no flags. Useful for Task Schedular.
 
 Batch Version (Requires internet or file from _Source)
 Both Removes both Edge, and WebView.
